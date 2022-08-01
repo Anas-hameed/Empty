@@ -20,8 +20,6 @@
 -  After that, Copy the sql queries from the backend/src/connection/tableCreation.sql and run them on phpmyadmin.
 
 - Please verify, you have following tables under database.
-
-  ![1](https://user-images.githubusercontent.com/68567262/175190615-42ca15d0-025a-4705-8675-cfbacbd1c191.png)
      
 - Open postman and import the collection from the send source code.
 
